@@ -1,2 +1,8 @@
 # finance-proyects
-proyecto para la implmentacion de tecnicas de ciencia de datos en finanzas
+proyecto para la implementacion de tecnicas de ciencia de datos en finanzas
+
+# carpetas
+
+- adicionales
+- data
+- script
