@@ -1,1 +1,1 @@
-documentacion adicionak para el proyecto
+documentacion adicional para el proyecto
