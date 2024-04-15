@@ -20,17 +20,26 @@ navegador.get(url)
 tick = navegador.find_element(By.XPATH , "/html/body/div[6]/section/div/div[2]/div[2]/div[1]/a[1]/span[2]")
 ActionChains(navegador).move_to_element(tick).click(tick).perform()
 financials = navegador.find_element(By.XPATH , "/html/body/div[1]/div[2]/div[2]/div[2]/div[1]/nav/div[1]/ul/li[4]")
-ActionChains(navegador).move_to_element(financials).click(financials).perform()
-                      
+try:
+    ActionChains(navegador).move_to_element(financials).click(financials).perform()
+except:
+    popup = navegador.find_element(By.XPATH , "/html/body/div[8]/div[2]/i")                      
+    ActionChains(navegador).move_to_element(popup).click(popup).perform()
+
 
 #Baja el resumen
-"""
+
 ratio = navegador.find_element(By.XPATH , "/html/body/div[6]/section/div[12]")
 ratios = ratio.get_attribute('innerHTML')
 
-print(ratios)
-"""
+#print(ratios)
+f = open("resumen.txt", "a")
+f.write(ratios)
+f.close()
 
+
+"""
+"""
 #Baja el income statement completo
 """
 inc = navegador.find_element(By.XPATH , "/html/body/div[6]/section/ul[2]/li[2]")
