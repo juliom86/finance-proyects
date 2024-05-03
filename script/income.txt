@@ -1,0 +1,215 @@
+
+<tbody><tr class="alignBottom" id="header_row">
+<th><span class="lightgrayFont arial_11 noBold">Period Ending:</span></th>
+<th><span class="bold">2023</span><div class="noBold arial_11">31/12</div></th>
+<th><span class="bold">2023</span><div class="noBold arial_11">30/09</div></th>
+<th><span class="bold">2023</span><div class="noBold arial_11">30/06</div></th>
+<th><span class="bold">2023</span><div class="noBold arial_11">31/03</div></th>
+</tr>
+
+</tbody><tbody>
+<tr class="openTr pointer" id="parentTr">
+<td><span class=" bold">Total Revenue<span class="dropDownArrowLightGray"></span></span></td>
+<td>166770</td>
+<td>152701</td>
+<td>110341</td>
+<td>83915</td>
+</tr><tr class="noHover" id="childTr"><td colspan="5" class="innerTD"><div><table class="genTbl reportTbl"><tbody> <tr class="child">
+<td><span class="">Revenue</span></td>
+<td>166770</td>
+<td>152701</td>
+<td>110341</td>
+<td>83915</td>
+</tr> <tr class="child last">
+<td><span class="">Other Revenue, Total</span></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr></tbody></table></div></td></tr> <tr>
+<td><span class="">Cost of Revenue, Total</span></td>
+<td>108606</td>
+<td>92014</td>
+<td>67401</td>
+<td>50645</td>
+</tr> <tr class="openTr pointer" id="parentTr">
+<td><span class=" bold">Total Operating Expenses<span class="dropDownArrowLightGray"></span></span></td>
+<td>134733</td>
+<td>105555</td>
+<td>79633</td>
+<td>61175</td>
+</tr><tr class="noHover" id="childTr"><td colspan="5" class="innerTD"><div><table class="genTbl reportTbl"><tbody> <tr class="child">
+<td><span class="">Fuel Expense</span></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr> <tr class="child">
+<td><span class="">Operations &amp; Maintenance</span></td>
+<td>6979</td>
+<td>-</td>
+<td>-</td>
+<td>2170</td>
+</tr> <tr class="child">
+<td><span class="">Selling/General/Admin. Expenses, Total</span></td>
+<td>26484</td>
+<td>19622</td>
+<td>17486</td>
+<td>11633</td>
+</tr> <tr class="child">
+<td><span class="">Research &amp; Development</span></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr> <tr class="child">
+<td><span class="">Depreciation / Amortization</span></td>
+<td>27856</td>
+<td>23855</td>
+<td>26166</td>
+<td>-</td>
+</tr> <tr class="child">
+<td><span class="">Interest Expense (Income) - Net Operating</span></td>
+<td>-33388</td>
+<td>-30018</td>
+<td>-26367</td>
+<td>-14353</td>
+</tr> <tr class="child">
+<td><span class="">Unusual Expense (Income)</span></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr> <tr class="child last">
+<td><span class="">Other Operating Expenses, Total</span></td>
+<td>-1804</td>
+<td>82</td>
+<td>-5053</td>
+<td>11080</td>
+</tr></tbody></table></div></td></tr> <tr>
+<td><span class=" bold">Operating Income</span></td>
+<td>32037</td>
+<td>47146</td>
+<td>30708</td>
+<td>22740</td>
+</tr> <tr>
+<td><span class="">Interest Income (Expense), Net Non-Operating</span></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr> <tr>
+<td><span class="">Gain (Loss) on Sale of Assets</span></td>
+<td>5541</td>
+<td>486</td>
+<td>-</td>
+<td>64</td>
+</tr> <tr>
+<td><span class="">Other, Net</span></td>
+<td>-2355</td>
+<td>-17422</td>
+<td>-19322</td>
+<td>-3609</td>
+</tr> <tr>
+<td><span class=" bold">Net Income Before Taxes</span></td>
+<td>28851</td>
+<td>64082</td>
+<td>50030</td>
+<td>26285</td>
+</tr> <tr>
+<td><span class="">Provision for Income Taxes</span></td>
+<td>112120</td>
+<td>13350</td>
+<td>7730</td>
+<td>-643</td>
+</tr> <tr>
+<td><span class=" bold">Net Income After Taxes</span></td>
+<td>-83269</td>
+<td>50732</td>
+<td>42300</td>
+<td>26928</td>
+</tr> <tr>
+<td><span class="">Minority Interest</span></td>
+<td>6960</td>
+<td>2398</td>
+<td>1684</td>
+<td>1397</td>
+</tr> <tr>
+<td><span class="">Equity In Affiliates</span></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr> <tr>
+<td><span class="">U.S GAAP Adjustment</span></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr> <tr>
+<td><span class=" bold">Net Income Before Extraordinary Items</span></td>
+<td>-85220</td>
+<td>50611</td>
+<td>42179</td>
+<td>26918</td>
+</tr> <tr>
+<td><span class="">Total Extraordinary Items</span></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr> <tr>
+<td><span class=" bold">Net Income</span></td>
+<td>-85220</td>
+<td>50611</td>
+<td>42179</td>
+<td>26918</td>
+</tr> <tr>
+<td><span class="">Total Adjustments to Net Income</span></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr> <tr>
+<td><span class=" bold">Income Available to Common Excluding Extraordinary Items</span></td>
+<td>-85220</td>
+<td>50611</td>
+<td>42179</td>
+<td>26918</td>
+</tr> <tr>
+<td><span class="">Dilution Adjustment</span></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr> <tr>
+<td><span class="">Diluted Net Income</span></td>
+<td>-85220</td>
+<td>50611</td>
+<td>42179</td>
+<td>26918</td>
+</tr> <tr>
+<td><span class="">Diluted Weighted Average Shares</span></td>
+<td>1360</td>
+<td>1368</td>
+<td>1372</td>
+<td>1380</td>
+</tr> <tr>
+<td><span class=" bold">Diluted EPS Excluding Extraordinary Items</span></td>
+<td>-62.66</td>
+<td>37</td>
+<td>30.74</td>
+<td>19.51</td>
+</tr> <tr>
+<td><span class="">DPS - Common Stock Primary Issue</span></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr> <tr>
+<td><span class="">Diluted Normalized EPS</span></td>
+<td>25.35</td>
+<td>28.97</td>
+<td>23.04</td>
+<td>11.79</td>
+</tr> </tbody>
